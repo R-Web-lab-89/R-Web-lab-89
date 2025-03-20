@@ -6,17 +6,17 @@ Always on the lookout to learn and fix real-world issues with clean, efficient c
 Presently getting familiar with Remix.js, Three.js, system design patterns, Python, and Django.
 
 Available for collaborations and cool projects! Connect and collaborate, and let's create something great.
+## 🚀 About Me
+- 🔭 I’m a MERN Stack Developer
+- 🌱 I’m currently learning Next JS,Phython
+- 💬 Ask me about React, Node.js, MongoDB, and TypeScript
+- 📫 How to reach me: muhammadathar9091@gmail.com
 
-🚀 About Me
-🔭 I’m a MERN Stack Developer
-🌱 I’m currently learning Next.js, TypeScript, Python, and Django
-💬 Ask me about React, Node.js, MongoDB, and TypeScript
-📫 How to reach me: muhammadathar9091@gmail.com
-🛠 Tech Stack
-💻 Languages: JavaScript, TypeScript, Python, C++
-🌐 Frontend: React.js, Next.js, Shadcn UI
-⚙️ Backend: Node.js, Express.js, Django
-🛢️ Database: MongoDB, PostgreSQL
-🔧 Tools: Git, VS Code, Docker
+## 🛠 Tech Stack
+- 💻 Languages: JavaScript, TypeScript, C++, 
+- 🌐 Frontend: React.js, Next.js, Shadcn Ui
+- ⚙️ Backend: Node.js, Express.js,
+- 🛢️ Database: MongoDB, PostgreSQL
+- 🔧 Tools: Git, VS Code, Docker
 📫 Connect with Me
 - LinkedIn: [Your Profile](https://linkedin.com/in/rao-muhammad-athar-980692357)          

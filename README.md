@@ -1,16 +1,22 @@
-## Hi there 👋
+Hello, I'm Athar – a Web Developer and Open-Source Enthusiast!
+Enjoy developing scalable web apps, learning new tech, and working with open-source projects. Proficient in MERN Stack, Next.js, and back-end development using Node.js & Express.
 
-<!--
-**R-Web-lab-89/R-Web-lab-89** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Always on the lookout to learn and fix real-world issues with clean, efficient code.
 
-Here are some ideas to get you started:
+Presently getting familiar with Remix.js, Three.js, system design patterns, Python, and Django.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Available for collaborations and cool projects! Connect and collaborate, and let's create something great.
+
+🚀 About Me
+🔭 I’m a MERN Stack Developer
+🌱 I’m currently learning Next.js, TypeScript, Python, and Django
+💬 Ask me about React, Node.js, MongoDB, and TypeScript
+📫 How to reach me: muhammadathar9091@gmail.com
+🛠 Tech Stack
+💻 Languages: JavaScript, TypeScript, Python, C++
+🌐 Frontend: React.js, Next.js, Shadcn UI
+⚙️ Backend: Node.js, Express.js, Django
+🛢️ Database: MongoDB, PostgreSQL
+🔧 Tools: Git, VS Code, Docker
+📫 Connect with Me
+- LinkedIn: [Your Profile](https://linkedin.com/in/rao-muhammad-athar-980692357)          

@@ -18,5 +18,4 @@ Available for collaborations and cool projects! Connect and collaborate, and let
 - ⚙️ Backend: Node.js, Express.js,
 - 🛢️ Database: MongoDB, PostgreSQL
 - 🔧 Tools: Git, VS Code, Docker
-📫 Connect with Me
-- LinkedIn: [Your Profile](https://linkedin.com/in/rao-muhammad-athar-980692357)          
+        
